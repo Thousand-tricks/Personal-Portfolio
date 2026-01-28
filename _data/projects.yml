@@ -1,0 +1,31 @@
+# Aggiungi i tuoi progetti GitHub qui manualmente
+# Esempio:
+
+- name: "gestione-agricola-db"
+  description: "Progetto personale per apprendimento mysql e gestione database per un'azienda agricola"
+  url: "https://github.com/Thousand-tricks/gestione-agricola-db"
+  language: "mysql"
+  stars: 5
+  pushed_at: "2025-11-7"
+
+- name: "Personal website"
+  description: "La pagina che adesso stai visualizzando"
+  url: "https://github.com/Thousand-tricks/Personal-website/tree/main"
+  language: "Html + Css + JS + Jekyll"
+  stars: 5
+  pushed_at: "2025-01-28"
+
+- name: "To-You-App"
+  description: "To do list per imparare ad usare Android studio"
+  url: "https://github.com/Thousand-tricks/To_Yu_app"
+  language: "Java"
+  stars: 5
+  pushed_at: "2025-10-15"
+
+# Aggiungi altri progetti qui:
+# - name: "Altro Progetto"
+#   description: "Descrizione"
+#   url: "https://github.com/username/another-repo"
+#   language: "Python"
+#   stars: 10
+#   pushed_at: "2024-01-20"
