@@ -54,7 +54,7 @@
 }
 
 .right-column-bg {
-  background-image: url('/Personal-website/assets/images/sfondodestra.jpg');
+  background-image: url('{{ site.baseurl }}/assets/images/sfondodestra.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;

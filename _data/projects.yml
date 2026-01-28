@@ -10,7 +10,7 @@
 
 - name: "Personal website"
   description: "La pagina che adesso stai visualizzando"
-  url: "https://thousand-tricks.github.io/Personal-Portfolio/"
+  url: "https://github.com/Thousand-tricks/Personal-Portfolio"
   language: "Html + Css + JS + Jekyll"
   stars: 5
   pushed_at: "2025-01-28"
